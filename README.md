@@ -2,9 +2,9 @@
 
 Flood prediction app with frontend in Flutter.
 
-This app allows users to predict chances of flood occurence in Kerala,India by entering monthly rainfall values.
-Users can choose from various machine learning models for predicition.  
-Users can also check with the ground report in past, if flood had actually occured with similar values of rainfall.
+This app allows users to predict chances of flood occurrence in Kerala,India by entering monthly rainfall values.
+Users can choose from various machine learning models for prediction.  
+Users can also check with the ground report in past, if flood had actually occurred with similar values of rainfall.
 
 If user is authenticated, past predictions will be stored and can be viewed from the app.
 
